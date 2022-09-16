@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Owner\\Documents\\GitHub\\random_lotto\\RandomLotto_WIn10\\RandomLotto_WIn10\\RandomLotto_WIn10.csproj",
-      "projectName": "RandomLotto_WIn10",
-      "projectPath": "C:\\Users\\Owner\\Documents\\GitHub\\random_lotto\\RandomLotto_WIn10\\RandomLotto_WIn10\\RandomLotto_WIn10.csproj",
+      "projectUniqueName": "C:\\Users\\Owner\\Documents\\GitHub\\random_lotto\\RandomLotto_WIn10\\RandomLotto_WIn10\\RandomLotto.csproj",
+      "projectName": "RandomLotto",
+      "projectPath": "C:\\Users\\Owner\\Documents\\GitHub\\random_lotto\\RandomLotto_WIn10\\RandomLotto_WIn10\\RandomLotto.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Owner\\Documents\\GitHub\\random_lotto\\RandomLotto_WIn10\\RandomLotto_WIn10\\obj\\",
       "projectStyle": "PackageReference",
