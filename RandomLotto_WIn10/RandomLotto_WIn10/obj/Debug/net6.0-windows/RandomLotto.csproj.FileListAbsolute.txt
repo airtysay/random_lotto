@@ -1,0 +1,17 @@
+C:\Users\Owner\Documents\GitHub\random_lotto\RandomLotto_WIn10\RandomLotto_WIn10\bin\Debug\net6.0-windows\RandomLotto.exe
+C:\Users\Owner\Documents\GitHub\random_lotto\RandomLotto_WIn10\RandomLotto_WIn10\bin\Debug\net6.0-windows\RandomLotto.deps.json
+C:\Users\Owner\Documents\GitHub\random_lotto\RandomLotto_WIn10\RandomLotto_WIn10\bin\Debug\net6.0-windows\RandomLotto.runtimeconfig.json
+C:\Users\Owner\Documents\GitHub\random_lotto\RandomLotto_WIn10\RandomLotto_WIn10\bin\Debug\net6.0-windows\RandomLotto.dll
+C:\Users\Owner\Documents\GitHub\random_lotto\RandomLotto_WIn10\RandomLotto_WIn10\bin\Debug\net6.0-windows\RandomLotto.pdb
+C:\Users\Owner\Documents\GitHub\random_lotto\RandomLotto_WIn10\RandomLotto_WIn10\obj\Debug\net6.0-windows\RandomLotto.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\random_lotto\RandomLotto_WIn10\RandomLotto_WIn10\obj\Debug\net6.0-windows\RandomLotto_WIn10.Form1.resources
+C:\Users\Owner\Documents\GitHub\random_lotto\RandomLotto_WIn10\RandomLotto_WIn10\obj\Debug\net6.0-windows\RandomLotto.csproj.GenerateResource.cache
+C:\Users\Owner\Documents\GitHub\random_lotto\RandomLotto_WIn10\RandomLotto_WIn10\obj\Debug\net6.0-windows\RandomLotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\GitHub\random_lotto\RandomLotto_WIn10\RandomLotto_WIn10\obj\Debug\net6.0-windows\RandomLotto.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\GitHub\random_lotto\RandomLotto_WIn10\RandomLotto_WIn10\obj\Debug\net6.0-windows\RandomLotto.AssemblyInfo.cs
+C:\Users\Owner\Documents\GitHub\random_lotto\RandomLotto_WIn10\RandomLotto_WIn10\obj\Debug\net6.0-windows\RandomLotto.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\GitHub\random_lotto\RandomLotto_WIn10\RandomLotto_WIn10\obj\Debug\net6.0-windows\RandomLotto.dll
+C:\Users\Owner\Documents\GitHub\random_lotto\RandomLotto_WIn10\RandomLotto_WIn10\obj\Debug\net6.0-windows\refint\RandomLotto.dll
+C:\Users\Owner\Documents\GitHub\random_lotto\RandomLotto_WIn10\RandomLotto_WIn10\obj\Debug\net6.0-windows\RandomLotto.pdb
+C:\Users\Owner\Documents\GitHub\random_lotto\RandomLotto_WIn10\RandomLotto_WIn10\obj\Debug\net6.0-windows\RandomLotto.genruntimeconfig.cache
+C:\Users\Owner\Documents\GitHub\random_lotto\RandomLotto_WIn10\RandomLotto_WIn10\obj\Debug\net6.0-windows\ref\RandomLotto.dll
